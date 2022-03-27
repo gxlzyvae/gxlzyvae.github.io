@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>苏格拉没有底_log</title>
+  
+  <subtitle>夜 空 中 最 亮 的 星</subtitle>
+  <link href="https://gxlzylbj.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://gxlzylbj.github.io/"/>
+  <updated>2022-03-27T13:22:06.531Z</updated>
+  <id>https://gxlzylbj.github.io/</id>
+  
+  <author>
+    <name>Traveler</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>如何创建自己的博客</title>
+    <link href="https://gxlzylbj.github.io/2022/03/27/%E5%A6%82%E4%BD%95%E5%88%9B%E5%BB%BA%E8%87%AA%E5%B7%B1%E7%9A%84%E5%8D%9A%E5%AE%A2/"/>
+    <id>https://gxlzylbj.github.io/2022/03/27/%E5%A6%82%E4%BD%95%E5%88%9B%E5%BB%BA%E8%87%AA%E5%B7%B1%E7%9A%84%E5%8D%9A%E5%AE%A2/</id>
+    <published>2022-03-27T03:38:14.236Z</published>
+    <updated>2022-03-27T13:22:06.531Z</updated>
+    
+    <content type="html"><![CDATA[<ul><li><h3 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h3>创建博客属于自己的个人爱好，其实在学校期间就有这个想法，有时间，就是懒得动手，现在出来实习了，感觉实习时间比较宽裕，就自己搭个博客玩一玩，博客采用hexo框架来实现，hexo是一个快速,简单和强大的轻量级框架。这个博客花了三天时间来完成，安装hexo博客框架只要配置好自己电脑本地node环境和git环境即可下载，后期可以部署到github上或者个人服务器上，网上教程很多，我也是整合网上非常多的教程才最完成！特别鸣谢哔哩哔哩博主<a href="https://www.bilibili.com/video/BV1mU4y1j72n?p=1">视频搬运崽啊</a>,<a href="https://www.bilibili.com/video/BV1je41147Ma?spm_id_from=333.337.search-card.all.click">暮里0-0</a> ,csdn博主<a href="https://blog.csdn.net/sinat_37781304/article/details/82729029">zjufangzh</a> <strong>问问题上知乎，学习上哔哩哔哩，实在不行上百度</strong>——个人学习真理…<br><img src="https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fp2.ssl.qhimgs1.com%2Fbdr%2F460__%2Ft019e1c5bfd5b21cffc.jpg&amp;refer=http%3A%2F%2Fp2.ssl.qhimgs1.com&amp;app=2002&amp;size=f9999,10000&amp;q=a80&amp;n=0&amp;g=0n&amp;fmt=auto?sec=1650977752&amp;t=f33023f68cd18ddf19680dabf59339e9"></li></ul><hr><ul><li><h3 id="hexo博客搭建"><a href="#hexo博客搭建" class="headerlink" title="hexo博客搭建"></a>hexo博客搭建</h3>因为在搭建过程中，没有记录自己的搭建过程，但我把步骤和好的教程链接附上！  <ol><li>第一步：实现本地node环境<br>附上链接：<a href="https://blog.csdn.net/zhangkaidsy/article/details/86645070?spm=1001.2101.3001.6650.1&amp;utm_medium=distribute.pc_relevant.none-task-blog-2~default~CTRLIST~Rate-1.pc_relevant_default&amp;depth_1-utm_source=distribute.pc_relevant.none-task-blog-2~default~CTRLIST~Rate-1.pc_relevant_default&amp;utm_relevant_index=2">node.js</a></li></ol></li></ul><hr><ol start="2"><li>第二步：安装git<br>附上链接<a href="https://www.cnblogs.com/xueweisuoyong/p/11914045.html">git</a></li></ol><hr><ol start="3"><li>第三步：配置淘宝镜像<br>附上链接：<a href="https://www.cnblogs.com/luyuandatabase/p/12145707.html">淘宝镜像</a></li></ol><hr><ol start="4"><li>第四步：下载hexo博客框架及搭建<br>附上链接:<a href="https://blog.csdn.net/sinat_37781304/article/details/82729029">hexo</a>（这个比较完整，几乎一步到位）</li></ol><hr><ol start="5"><li>更换hexo博客主题<br>附上链接：<a href="https://blog.csdn.net/m0_38064214/article/details/84557777">更换主题</a><br><img src="https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fuploads.sundxs.com%2Fallimg%2F1706%2F29-1F613113G9.jpg&amp;refer=http%3A%2F%2Fuploads.sundxs.com&amp;app=2002&amp;size=f9999,10000&amp;q=a80&amp;n=0&amp;g=0n&amp;fmt=auto?sec=1650979255&amp;t=ce5a23e8867d716cfe4e60c26586231b"></li></ol>]]></content>
+    
+    
+    <summary type="html">* 前言
+   创建博客属于自己的个人爱好，其实在学校期间就有这个想法，有时间，就是懒得动手，现在出来实习了，感觉实习时间比较宽裕，就自己搭个博客玩一玩，博客采用hexo框架来实现，hexo是一个快速,简单和强大的轻量级框架。这个博客花了三天时间来完成，安装hexo博客框架只要配置好自己电脑本地node环境和git环境即可下载，后期可以部署到github上或者个人服务器上，网上教程很多，我也是整合网上非常多的教程才最完成！特别鸣谢哔哩哔哩博主视频搬运崽啊,暮里0-0 ,csdn博主zjufangzh 问问题上知乎，学习上哔哩哔哩，实在不行上百度——个人学习真理…
+   
+
+
+
+
+ * hexo</summary>
+    
+    
+    
+    <category term="创建Blog" scheme="https://gxlzylbj.github.io/categories/%E5%88%9B%E5%BB%BABlog/"/>
+    
+    
+    <category term="Blog" scheme="https://gxlzylbj.github.io/tags/Blog/"/>
+    
+    <category term="hexo" scheme="https://gxlzylbj.github.io/tags/hexo/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Markdown入门教程</title>
+    <link href="https://gxlzylbj.github.io/2022/03/26/Markdown%E5%85%A5%E9%97%A8%E6%95%99%E7%A8%8B/"/>
+    <id>https://gxlzylbj.github.io/2022/03/26/Markdown%E5%85%A5%E9%97%A8%E6%95%99%E7%A8%8B/</id>
+    <published>2022-03-26T14:48:10.580Z</published>
+    <updated>2022-03-27T06:39:16.224Z</updated>
+    
+    <content type="html"><![CDATA[<ul><li><h3 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h3>Markdown 是一种轻量级标记语言，它允许人们使用易读易写的纯文本格式编写文档，在2004年由约翰·格鲁伯创建。Markdown 编写的文档可以导出 HTML 、Word、图像、PDF、Epub 等多种格式的文档。Markdown 是一种轻量级的「标记语言」，它的优点很多，目前也被越来越多的写作爱好者，撰稿者广泛使用。看到这里请不要被「标记」、「语言」所迷惑，Markdown 的语法十分简单。常用的标记符号也不超过十个，这种相对于更为复杂的 HTML 标记语言来说，Markdown 可谓是十分轻量的，学习成本也不需要太多，且一旦熟悉这种语法规则，会有一劳永逸的效果。</li></ul><hr><ul><li><h3 id="学的不仅是技术，更是梦想"><a href="#学的不仅是技术，更是梦想" class="headerlink" title="学的不仅是技术，更是梦想"></a>学的不仅是技术，更是梦想</h3>我记得我以前上课的时候老师说过：你们要有什么不会的上<strong>菜鸟</strong>。然后他就走了，留给我们”英俊“的背影…！上菜鸟开始你的编程之路吧，一学就废那种！当然你也可以在我这里学！ <em>(哈哈哈)</em>   <strong><a href="https://www.runoob.com/markdown/md-link.html">Markdown-菜鸟</a></strong></li></ul><hr><ul><li><h3 id="编辑器"><a href="#编辑器" class="headerlink" title="编辑器"></a>编辑器</h3>关于同什么编写Markdown，我推荐使用VS code和Typore这两款软件，因为它们都比较轻便易用，对新手较为友好。附上下载地址： <strong><a href="https://code.visualstudio.com/">VS code</a></strong> Typore不是官网，但无毒，无捆绑 <strong><a href="https://pc.qq.com/detail/15/detail_22855.html">Typore</a></strong></li></ul><hr><ul><li><h3 id="Markdown-标题"><a href="#Markdown-标题" class="headerlink" title="Markdown 标题"></a>Markdown 标题</h3>标题分为：一级标题 二级标题 三级标题 四级标题 五级标题 六级标题 六种。  Markdown有两种。第一种： <strong>= 和 - 标记语法格式</strong> ，第二种：以 <strong>#</strong> 号代表表标题等级，#为一级标题，##为二级标题，以此类推。<img src="https://www.runoob.com/wp-content/uploads/2019/03/md2.gif" alt="标题格式"></li></ul><hr><ul><li><h3 id="Markdown-换行-列表"><a href="#Markdown-换行-列表" class="headerlink" title="Markdown 换行 列表"></a>Markdown 换行 列表</h3><p>   <strong>换行：</strong> Markdown的换行非常简单，按 <strong>两次空格</strong> 在加 <strong>回车键</strong> 就可以实现换行。特别提醒一点： 书写Markdoen的格式时记得在 <strong>内容前后和后面加一个空格</strong> 在书写内容，不然格式不显示！   </p><ul><li><strong>无序列表：</strong> 只需要在内容前面加上一个星号(*)即可。<br> <img src="https://www.runoob.com/wp-content/uploads/2019/03/89446A8E-6D83-4666-AACC-980145D5F070.jpg" alt="无序列表">  </li><li><strong>有序列表：</strong> 只需要在内容前面加上一个星号(.)即可。示例：1. 2. 3.<br><img src="https://www.runoob.com/wp-content/uploads/2019/03/560384BB-2B00-41D5-ACF2-18972F7F2775.jpg" alt="无序列表"></li></ul><hr></li><li><h3 id="Markdown-字体格式-分割线"><a href="#Markdown-字体格式-分割线" class="headerlink" title="Markdown 字体格式  分割线"></a>Markdown 字体格式  分割线</h3><ul><li>Markdown 提供了3种字体格式，每种格式有两种书写格式，下面只用最简单的书写格式。示例：（<em>斜体文本</em>）  （<strong>粗体文本</strong>） （<em><strong>粗斜体文本</strong></em>）<br>  <img src="https://www.runoob.com/wp-content/uploads/2019/03/md3.gif" alt="字体格式">  </li><li>分割线：你可以在一行中用三个以上的星号、减号、底线来建立一个分隔线，行内不能有其他东西。你也可以在星号或是减号中间插入空格。星号分割线（1.***   2.* * * 3.*****）减号分割线（1.- - - 2.———-）<br><img src="https://www.runoob.com/wp-content/uploads/2019/03/3F46EAA9-DADE-48FD-99AA-DF7BEBFAA4FA.jpg" alt="分割线"></li></ul></li></ul><hr><ul><li><h3 id="Markdown-添加链接"><a href="#Markdown-添加链接" class="headerlink" title="Markdown 添加链接"></a>Markdown 添加链接</h3>Markdown提供了两种链接的方式，第一种：方括号(链接地址) ，第二种：&lt;链接地址&gt;。<br><img src="https://www.runoob.com/wp-content/uploads/2019/03/49E6CB42-F780-4DA6-8290-DC757B51FB9A.jpg" alt="第一种链接方式"><br><img src="https://www.runoob.com/wp-content/uploads/2019/03/9BFF60A1-DD71-4B63-987B-4665B31C7787.jpg" alt="第二种链接方式"></li></ul><hr><ul><li><h3 id="Markdown-添加图片"><a href="#Markdown-添加图片" class="headerlink" title="Markdown 添加图片"></a>Markdown 添加图片</h3>开头一个感叹号 ! 加一个方括号，方括号里面填写描述图片的文字，方括号后面加一个括号(),附上图片地址即可！<br><img src="https://gimg2.baidu.com/image_search/src=http%3A%2F%2Ffile1.renrendoc.com%2Ffileroot_temp2%2F2020-9%2F4%2Fdc1b758f-e40d-4e15-9395-7e10e53efbdb%2Fdc1b758f-e40d-4e15-9395-7e10e53efbdb1.gif&amp;refer=http%3A%2F%2Ffile1.renrendoc.com&amp;app=2002&amp;size=f9999,10000&amp;q=a80&amp;n=0&amp;g=0n&amp;fmt=auto?sec=1650896596&amp;t=1c8f7e91b3ecd4da9b938618e0ff19d2"></li></ul><hr><ul><li><h3 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h3>Markdown还有一些内容没写上，因为我觉得用不上，以上这些是我觉得可以用的上的，希望能帮上你。推荐一位大神写的更好<a href="https://topking66.gitee.io/posts/ce8c.html">topking</a>  再见！ <strong>瑞思拜</strong><br> <img src="https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fqqpublic.qpic.cn%2Fqq_public%2F0%2F0-2191295295-BBF5CBCC6DFEE981DFC4B19A2F0A8CBF%2F0%3Ffmt%3Djpg%26size%3D76%26h%3D396%26w%3D594%26ppv%3D1.jpg&amp;refer=http%3A%2F%2Fqqpublic.qpic.cn&amp;app=2002&amp;size=f9999,10000&amp;q=a80&amp;n=0&amp;g=0n&amp;fmt=auto?sec=1650897249&amp;t=628e2fcfe4a3f5f964d6dad3a5b54a0a" alt="瑞思拜"></li></ul>]]></content>
+    
+    
+    <summary type="html">* 前言
+   Markdown 是一种轻量级标记语言，它允许人们使用易读易写的纯文本格式编写文档，在2004年由约翰·格鲁伯创建。Markdown 编写的文档可以导出 HTML 、Word、图像、PDF、Epub 等多种格式的文档。Markdown 是一种轻量级的「标记语言」，它的优点很多，目前也被越来越多的写作爱好者，撰稿者广泛使用。看到这里请不要被「标记」、「语言」所迷惑，Markdown 的语法十分简单。常用的标记符号也不超过十个，这种相对于更为复杂的 HTML 标记语言来说，Markdown 可谓是十分轻量的，学习成本也不需要太多，且一旦熟悉这种语法规则，会有一劳永逸的效果。
+
+
+
+</summary>
+    
+    
+    
+    <category term="轻量级标记语言" scheme="https://gxlzylbj.github.io/categories/%E8%BD%BB%E9%87%8F%E7%BA%A7%E6%A0%87%E8%AE%B0%E8%AF%AD%E8%A8%80/"/>
+    
+    
+    <category term="Markdown" scheme="https://gxlzylbj.github.io/tags/Markdown/"/>
+    
+    <category term="教学" scheme="https://gxlzylbj.github.io/tags/%E6%95%99%E5%AD%A6/"/>
+    
+  </entry>
+  
+</feed>
