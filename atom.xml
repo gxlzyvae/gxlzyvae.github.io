@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>苏格拉没有底_log</title>
+  <title>past tense</title>
   
   <subtitle>夜 空 中 最 亮 的 星</subtitle>
   <link href="https://gxlzylbj.github.io/atom.xml" rel="self"/>
@@ -10,7 +10,7 @@
   <id>https://gxlzylbj.github.io/</id>
   
   <author>
-    <name>Traveler</name>
+    <name>past tense</name>
     
   </author>
   
@@ -18,8 +18,8 @@
   
   <entry>
     <title>抖音怎么运营</title>
-    <link href="https://gxlzylbj.github.io/2022/03/30/%E6%8A%96%E9%9F%B3%E8%BF%90%E8%90%A5%E5%BD%92%E6%80%BB/"/>
-    <id>https://gxlzylbj.github.io/2022/03/30/%E6%8A%96%E9%9F%B3%E8%BF%90%E8%90%A5%E5%BD%92%E6%80%BB/</id>
+    <link href="https://gxlzylbj.github.io/posts/undefined.html"/>
+    <id>https://gxlzylbj.github.io/posts/undefined.html</id>
     <published>2022-03-30T15:13:05.000Z</published>
     <updated>2022-04-02T10:25:13.703Z</updated>
     
@@ -44,8 +44,8 @@
   
   <entry>
     <title>如何创建自己的博客</title>
-    <link href="https://gxlzylbj.github.io/2022/03/27/%E5%A6%82%E4%BD%95%E5%88%9B%E5%BB%BA%E8%87%AA%E5%B7%B1%E7%9A%84%E5%8D%9A%E5%AE%A2/"/>
-    <id>https://gxlzylbj.github.io/2022/03/27/%E5%A6%82%E4%BD%95%E5%88%9B%E5%BB%BA%E8%87%AA%E5%B7%B1%E7%9A%84%E5%8D%9A%E5%AE%A2/</id>
+    <link href="https://gxlzylbj.github.io/posts/undefined.html"/>
+    <id>https://gxlzylbj.github.io/posts/undefined.html</id>
     <published>2022-03-27T03:38:14.236Z</published>
     <updated>2022-03-27T13:22:06.531Z</updated>
     
@@ -74,8 +74,8 @@
   
   <entry>
     <title>Markdown入门教程</title>
-    <link href="https://gxlzylbj.github.io/2022/03/26/Markdown%E5%85%A5%E9%97%A8%E6%95%99%E7%A8%8B/"/>
-    <id>https://gxlzylbj.github.io/2022/03/26/Markdown%E5%85%A5%E9%97%A8%E6%95%99%E7%A8%8B/</id>
+    <link href="https://gxlzylbj.github.io/posts/undefined.html"/>
+    <id>https://gxlzylbj.github.io/posts/undefined.html</id>
     <published>2022-03-26T14:48:10.580Z</published>
     <updated>2022-03-27T06:39:16.224Z</updated>
     
