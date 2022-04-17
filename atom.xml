@@ -6,7 +6,7 @@
   <link href="https://gxlzylbj.github.io/atom.xml" rel="self"/>
   
   <link href="https://gxlzylbj.github.io/"/>
-  <updated>2022-04-12T10:53:06.288Z</updated>
+  <updated>2022-04-15T16:23:59.450Z</updated>
   <id>https://gxlzylbj.github.io/</id>
   
   <author>
@@ -17,11 +17,41 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>如何创建专属博客</title>
+    <link href="https://gxlzylbj.github.io/posts/2e4.html"/>
+    <id>https://gxlzylbj.github.io/posts/2e4.html</id>
+    <published>2022-04-15T16:17:16.000Z</published>
+    <updated>2022-04-15T16:23:59.450Z</updated>
+    
+    <content type="html"><![CDATA[<ul><li><h3 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h3>创建博客属于自己的个人爱好，其实在学校期间就有这个想法，有时间，就是懒得动手，现在出来实习了，感觉实习时间比较宽裕，就自己搭个博客玩一玩，博客采用hexo框架来实现，hexo是一个快速,简单和强大的轻量级框架。这个博客花了三天时间来完成，安装hexo博客框架只要配置好自己电脑本地node环境和git环境即可下载，后期可以部署到github上或者个人服务器上，网上教程很多，我也是整合网上非常多的教程才最完成！特别鸣谢哔哩哔哩博主<a href="https://www.bilibili.com/video/BV1mU4y1j72n?p=1">视频搬运崽啊</a>,<a href="https://www.bilibili.com/video/BV1je41147Ma?spm_id_from=333.337.search-card.all.click">暮里0-0</a> ,csdn博主<a href="https://blog.csdn.net/sinat_37781304/article/details/82729029">zjufangzh</a> <strong>问问题上知乎，学习上哔哩哔哩，实在不行上百度</strong>——个人学习真理…<br><img src="https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fp2.ssl.qhimgs1.com%2Fbdr%2F460__%2Ft019e1c5bfd5b21cffc.jpg&amp;refer=http%3A%2F%2Fp2.ssl.qhimgs1.com&amp;app=2002&amp;size=f9999,10000&amp;q=a80&amp;n=0&amp;g=0n&amp;fmt=auto?sec=1650977752&amp;t=f33023f68cd18ddf19680dabf59339e9"></li></ul><hr><ul><li><h3 id="hexo博客搭建"><a href="#hexo博客搭建" class="headerlink" title="hexo博客搭建"></a>hexo博客搭建</h3>因为在搭建过程中，没有记录自己的搭建过程，但我把步骤和好的教程链接附上！</li></ul><ol><li>第一步：实现本地node环境<br>  附上链接：<a href="https://blog.csdn.net/zhangkaidsy/article/details/86645070?spm=1001.2101.3001.6650.1&amp;utm_medium=distribute.pc_relevant.none-task-blog-2~default~CTRLIST~Rate-1.pc_relevant_default&amp;depth_1-utm_source=distribute.pc_relevant.none-task-blog-2~default~CTRLIST~Rate-1.pc_relevant_default&amp;utm_relevant_index=2">node.js</a></li></ol><hr><ol start="2"><li>第二步：安装git<br>附上链接<a href="https://www.cnblogs.com/xueweisuoyong/p/11914045.html">git</a></li></ol><hr><ol start="3"><li>第三步：配置淘宝镜像<br>附上链接：<a href="https://www.cnblogs.com/luyuandatabase/p/12145707.html">淘宝镜像</a></li></ol><hr><ol start="4"><li>第四步：下载hexo博客框架及搭建<br>附上链接:<a href="https://blog.csdn.net/sinat_37781304/article/details/82729029">hexo</a>（这个比较完整，几乎一步到位）</li></ol><hr><ol start="5"><li>更换hexo博客主题<br>附上链接：<a href="https://blog.csdn.net/m0_38064214/article/details/84557777">更换主题</a><br><img src="https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fuploads.sundxs.com%2Fallimg%2F1706%2F29-1F613113G9.jpg&amp;refer=http%3A%2F%2Fuploads.sundxs.com&amp;app=2002&amp;size=f9999,10000&amp;q=a80&amp;n=0&amp;g=0n&amp;fmt=auto?sec=1650979255&amp;t=ce5a23e8867d716cfe4e60c26586231b"></li></ol>]]></content>
+    
+    
+    <summary type="html">* 前言
+   创建博客属于自己的个人爱好，其实在学校期间就有这个想法，有时间，就是懒得动手，现在出来实习了，感觉实习时间比较宽裕，就自己搭个博客玩一玩，博客采用hexo框架来实现，hexo是一个快速,简单和强大的轻量级框架。这个博客花了三天时间来完成，安装hexo博客框架只要配置好自己电脑本地node环境和git环境即可下载，后期可以部署到github上或者个人服务器上，网上教程很多，我也是整合网上非常多的教程才最完成！特别鸣谢哔哩哔哩博主视频搬运崽啊,暮里0-0 ,csdn博主zjufangzh 问问题上知乎，学习上哔哩哔哩，实在不行上百度——个人学习真理…
+   
+
+
+
+
+ * hexo</summary>
+    
+    
+    
+    <category term="创建Blog" scheme="https://gxlzylbj.github.io/categories/%E5%88%9B%E5%BB%BABlog/"/>
+    
+    
+    <category term="Blog" scheme="https://gxlzylbj.github.io/tags/Blog/"/>
+    
+    <category term="hexo" scheme="https://gxlzylbj.github.io/tags/hexo/"/>
+    
+  </entry>
+  
+  <entry>
     <title>NBA附加赛前瞻</title>
     <link href="https://gxlzylbj.github.io/posts/3761.html"/>
     <id>https://gxlzylbj.github.io/posts/3761.html</id>
     <published>2022-04-12T10:47:59.000Z</published>
-    <updated>2022-04-12T10:53:06.288Z</updated>
+    <updated>2022-04-15T13:00:31.700Z</updated>
     
     <content type="html"><![CDATA[<div align="center">  <h3>「赛事前瞻」篮网VS骑士，一局定生死，残忍又刺激</h3></div>    <hr><p>NBA附加赛将在4月13日开始，紧张刺激的比赛就要开启，面对一场定输赢的比赛，谁都没有必胜的把握和信心，即使是同时拥有杜兰特和欧文的篮网队也不一定说能在一场变换莫测的附加赛中取得胜利。<br><img src="https://p3.toutiaoimg.com/origin/tos-cn-i-qvj2lq49k0/e2a9ec0218034fa7a9b98eedb4e43176?from=pc"></p><p>明天首场对决是北京时间7:00篮网与骑士，篮网东部第七，骑士东部第八。两队同为44胜38负，篮网以常规赛彼此胜负差的优势力压骑士，双方在常规赛相遇四次，篮网取得了其中的三场胜利，三场比赛的分差为：10分、5分、11分，从常规赛的比赛数据中看出，双方还是存在一定的差距，而且就双方球队目前阵容和纸面实力上看出篮网比骑士更具优势。<br><img src="https://p3.toutiaoimg.com/origin/tos-cn-i-qvj2lq49k0/2bdc388d9c784e22901e343534a52aed?from=pc"><br>在球队阵容方面，骑士队塞克斯顿赛季报销至今，阿伦确认因伤缺席附加赛，篮网方面西蒙西大概率不会在附加赛中复出。阿伦的缺席让骑士的内线防守下降了一个档次，这位全明星场均可以贡献16.1分，10.7个篮板，1.4次盖帽，他对于骑士的重要性不言而喻。西蒙斯的缺席在附加赛期间不会给篮网带来太大的影响，他最大的可能会在首轮季后赛中复出。</p><p>在球队纸面实力上，篮网拥有死神杜兰特和欧神仙的双神组合，再加上赛斯·库里、德拉蒙德、米尔斯等一众优秀干将，骑士方面虽然球员名气不大，更平民化，但在打法上更加团结和更具冲劲。</p><p>相比较于篮网，骑士是一支青年军，有过季后赛经验的球员只有乐福和隆多这两位老将，经验欠缺的骑士，在附加赛一场定生死的比赛中出更容易出现状态起伏的表现。附加赛的刺激就在于双方球队都会在比赛中犯错，就看哪支队伍在比赛中更稳定，心态更平衡，更渴望获得胜利。<br><img src="https://p3.toutiaoimg.com/origin/tos-cn-i-qvj2lq49k0/ff6e2206c5e64dffb8447eabf932bbde?from=pc"><br>篮网相比较于骑士是那一支更被看好的球队，因为阵容中有杜兰特和欧文两位王牌人物，人们有理由相信在一场定生死的比赛中他们更值得信任。常规赛的数据可以成为我们考量两支球队的重要指标之一，篮网进攻火力更加凶猛，骑士防守更加稳固，没有最锋利的矛，也没有最坚实的盾，双方的数据都较为接近。<br><img src="https://p3.toutiaoimg.com/origin/tos-cn-i-qvj2lq49k0/54aa6832dcce4bc583568e8ddff3031e?from=pc"><br>比赛决定权终归回到球员本身，篮网有杜兰特和欧文两位神仙，篮网可不会在生死局给骑士任何活命的机会，骑士作为一支青年军，可不会放弃在后詹姆斯时代可以进入季后赛的机会，必将生死一搏！<br><img src="https://p3.toutiaoimg.com/origin/tos-cn-i-qvj2lq49k0/cf37ddb416bf405090df94e6d60393ba?from=pc"><br>除了篮网与骑士，明天西部还有快船对战森林狼的比赛，同样双方球队实力都非常接近，强强对决，比的就是经验和细节，快船在这方面要优于森林狼，看好快船拿下森林狼！<br><img src="https://p3.toutiaoimg.com/origin/tos-cn-i-qvj2lq49k0/2d22ecd747034cec9eaeb4a5a5ba51dc?from=pc"></p>]]></content>
     
@@ -73,36 +103,6 @@ NBA附加赛将在4月13日开始，紧张刺激的比赛就要开启，面对�
     
     
     <category term="抖音" scheme="https://gxlzylbj.github.io/tags/%E6%8A%96%E9%9F%B3/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>如何创建自己的博客</title>
-    <link href="https://gxlzylbj.github.io/posts/undefined.html"/>
-    <id>https://gxlzylbj.github.io/posts/undefined.html</id>
-    <published>2022-03-27T03:38:14.236Z</published>
-    <updated>2022-03-27T13:22:06.531Z</updated>
-    
-    <content type="html"><![CDATA[<ul><li><h3 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h3>创建博客属于自己的个人爱好，其实在学校期间就有这个想法，有时间，就是懒得动手，现在出来实习了，感觉实习时间比较宽裕，就自己搭个博客玩一玩，博客采用hexo框架来实现，hexo是一个快速,简单和强大的轻量级框架。这个博客花了三天时间来完成，安装hexo博客框架只要配置好自己电脑本地node环境和git环境即可下载，后期可以部署到github上或者个人服务器上，网上教程很多，我也是整合网上非常多的教程才最完成！特别鸣谢哔哩哔哩博主<a href="https://www.bilibili.com/video/BV1mU4y1j72n?p=1">视频搬运崽啊</a>,<a href="https://www.bilibili.com/video/BV1je41147Ma?spm_id_from=333.337.search-card.all.click">暮里0-0</a> ,csdn博主<a href="https://blog.csdn.net/sinat_37781304/article/details/82729029">zjufangzh</a> <strong>问问题上知乎，学习上哔哩哔哩，实在不行上百度</strong>——个人学习真理…<br><img src="https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fp2.ssl.qhimgs1.com%2Fbdr%2F460__%2Ft019e1c5bfd5b21cffc.jpg&amp;refer=http%3A%2F%2Fp2.ssl.qhimgs1.com&amp;app=2002&amp;size=f9999,10000&amp;q=a80&amp;n=0&amp;g=0n&amp;fmt=auto?sec=1650977752&amp;t=f33023f68cd18ddf19680dabf59339e9"></li></ul><hr><ul><li><h3 id="hexo博客搭建"><a href="#hexo博客搭建" class="headerlink" title="hexo博客搭建"></a>hexo博客搭建</h3>因为在搭建过程中，没有记录自己的搭建过程，但我把步骤和好的教程链接附上！  <ol><li>第一步：实现本地node环境<br>附上链接：<a href="https://blog.csdn.net/zhangkaidsy/article/details/86645070?spm=1001.2101.3001.6650.1&amp;utm_medium=distribute.pc_relevant.none-task-blog-2~default~CTRLIST~Rate-1.pc_relevant_default&amp;depth_1-utm_source=distribute.pc_relevant.none-task-blog-2~default~CTRLIST~Rate-1.pc_relevant_default&amp;utm_relevant_index=2">node.js</a></li></ol></li></ul><hr><ol start="2"><li>第二步：安装git<br>附上链接<a href="https://www.cnblogs.com/xueweisuoyong/p/11914045.html">git</a></li></ol><hr><ol start="3"><li>第三步：配置淘宝镜像<br>附上链接：<a href="https://www.cnblogs.com/luyuandatabase/p/12145707.html">淘宝镜像</a></li></ol><hr><ol start="4"><li>第四步：下载hexo博客框架及搭建<br>附上链接:<a href="https://blog.csdn.net/sinat_37781304/article/details/82729029">hexo</a>（这个比较完整，几乎一步到位）</li></ol><hr><ol start="5"><li>更换hexo博客主题<br>附上链接：<a href="https://blog.csdn.net/m0_38064214/article/details/84557777">更换主题</a><br><img src="https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fuploads.sundxs.com%2Fallimg%2F1706%2F29-1F613113G9.jpg&amp;refer=http%3A%2F%2Fuploads.sundxs.com&amp;app=2002&amp;size=f9999,10000&amp;q=a80&amp;n=0&amp;g=0n&amp;fmt=auto?sec=1650979255&amp;t=ce5a23e8867d716cfe4e60c26586231b"></li></ol>]]></content>
-    
-    
-    <summary type="html">* 前言
-   创建博客属于自己的个人爱好，其实在学校期间就有这个想法，有时间，就是懒得动手，现在出来实习了，感觉实习时间比较宽裕，就自己搭个博客玩一玩，博客采用hexo框架来实现，hexo是一个快速,简单和强大的轻量级框架。这个博客花了三天时间来完成，安装hexo博客框架只要配置好自己电脑本地node环境和git环境即可下载，后期可以部署到github上或者个人服务器上，网上教程很多，我也是整合网上非常多的教程才最完成！特别鸣谢哔哩哔哩博主视频搬运崽啊,暮里0-0 ,csdn博主zjufangzh 问问题上知乎，学习上哔哩哔哩，实在不行上百度——个人学习真理…
-   
-
-
-
-
- * hexo</summary>
-    
-    
-    
-    <category term="创建Blog" scheme="https://gxlzylbj.github.io/categories/%E5%88%9B%E5%BB%BABlog/"/>
-    
-    
-    <category term="Blog" scheme="https://gxlzylbj.github.io/tags/Blog/"/>
-    
-    <category term="hexo" scheme="https://gxlzylbj.github.io/tags/hexo/"/>
     
   </entry>
   

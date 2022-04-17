@@ -4,6 +4,33 @@
   
     
     <entry>
+      <title>如何创建专属博客</title>
+      <link href="/posts/2e4.html"/>
+      <url>/posts/2e4.html</url>
+      
+        <content type="html"><![CDATA[<ul><li><h3 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h3>创建博客属于自己的个人爱好，其实在学校期间就有这个想法，有时间，就是懒得动手，现在出来实习了，感觉实习时间比较宽裕，就自己搭个博客玩一玩，博客采用hexo框架来实现，hexo是一个快速,简单和强大的轻量级框架。这个博客花了三天时间来完成，安装hexo博客框架只要配置好自己电脑本地node环境和git环境即可下载，后期可以部署到github上或者个人服务器上，网上教程很多，我也是整合网上非常多的教程才最完成！特别鸣谢哔哩哔哩博主<a href="https://www.bilibili.com/video/BV1mU4y1j72n?p=1">视频搬运崽啊</a>,<a href="https://www.bilibili.com/video/BV1je41147Ma?spm_id_from=333.337.search-card.all.click">暮里0-0</a> ,csdn博主<a href="https://blog.csdn.net/sinat_37781304/article/details/82729029">zjufangzh</a> <strong>问问题上知乎，学习上哔哩哔哩，实在不行上百度</strong>——个人学习真理…<br><img src="https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fp2.ssl.qhimgs1.com%2Fbdr%2F460__%2Ft019e1c5bfd5b21cffc.jpg&amp;refer=http%3A%2F%2Fp2.ssl.qhimgs1.com&amp;app=2002&amp;size=f9999,10000&amp;q=a80&amp;n=0&amp;g=0n&amp;fmt=auto?sec=1650977752&amp;t=f33023f68cd18ddf19680dabf59339e9"></li></ul><hr><ul><li><h3 id="hexo博客搭建"><a href="#hexo博客搭建" class="headerlink" title="hexo博客搭建"></a>hexo博客搭建</h3>因为在搭建过程中，没有记录自己的搭建过程，但我把步骤和好的教程链接附上！</li></ul><ol><li>第一步：实现本地node环境<br>  附上链接：<a href="https://blog.csdn.net/zhangkaidsy/article/details/86645070?spm=1001.2101.3001.6650.1&amp;utm_medium=distribute.pc_relevant.none-task-blog-2~default~CTRLIST~Rate-1.pc_relevant_default&amp;depth_1-utm_source=distribute.pc_relevant.none-task-blog-2~default~CTRLIST~Rate-1.pc_relevant_default&amp;utm_relevant_index=2">node.js</a></li></ol><hr><ol start="2"><li>第二步：安装git<br>附上链接<a href="https://www.cnblogs.com/xueweisuoyong/p/11914045.html">git</a></li></ol><hr><ol start="3"><li>第三步：配置淘宝镜像<br>附上链接：<a href="https://www.cnblogs.com/luyuandatabase/p/12145707.html">淘宝镜像</a></li></ol><hr><ol start="4"><li>第四步：下载hexo博客框架及搭建<br>附上链接:<a href="https://blog.csdn.net/sinat_37781304/article/details/82729029">hexo</a>（这个比较完整，几乎一步到位）</li></ol><hr><ol start="5"><li>更换hexo博客主题<br>附上链接：<a href="https://blog.csdn.net/m0_38064214/article/details/84557777">更换主题</a><br><img src="https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fuploads.sundxs.com%2Fallimg%2F1706%2F29-1F613113G9.jpg&amp;refer=http%3A%2F%2Fuploads.sundxs.com&amp;app=2002&amp;size=f9999,10000&amp;q=a80&amp;n=0&amp;g=0n&amp;fmt=auto?sec=1650979255&amp;t=ce5a23e8867d716cfe4e60c26586231b"></li></ol>]]></content>
+      
+      
+      <categories>
+          
+          <category> 创建Blog </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Blog </tag>
+            
+            <tag> hexo </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>NBA附加赛前瞻</title>
       <link href="/posts/3761.html"/>
       <url>/posts/3761.html</url>
@@ -50,33 +77,6 @@
         <tags>
             
             <tag> 抖音 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>如何创建自己的博客</title>
-      <link href="/posts/undefined.html"/>
-      <url>/posts/undefined.html</url>
-      
-        <content type="html"><![CDATA[<ul><li><h3 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h3>创建博客属于自己的个人爱好，其实在学校期间就有这个想法，有时间，就是懒得动手，现在出来实习了，感觉实习时间比较宽裕，就自己搭个博客玩一玩，博客采用hexo框架来实现，hexo是一个快速,简单和强大的轻量级框架。这个博客花了三天时间来完成，安装hexo博客框架只要配置好自己电脑本地node环境和git环境即可下载，后期可以部署到github上或者个人服务器上，网上教程很多，我也是整合网上非常多的教程才最完成！特别鸣谢哔哩哔哩博主<a href="https://www.bilibili.com/video/BV1mU4y1j72n?p=1">视频搬运崽啊</a>,<a href="https://www.bilibili.com/video/BV1je41147Ma?spm_id_from=333.337.search-card.all.click">暮里0-0</a> ,csdn博主<a href="https://blog.csdn.net/sinat_37781304/article/details/82729029">zjufangzh</a> <strong>问问题上知乎，学习上哔哩哔哩，实在不行上百度</strong>——个人学习真理…<br><img src="https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fp2.ssl.qhimgs1.com%2Fbdr%2F460__%2Ft019e1c5bfd5b21cffc.jpg&amp;refer=http%3A%2F%2Fp2.ssl.qhimgs1.com&amp;app=2002&amp;size=f9999,10000&amp;q=a80&amp;n=0&amp;g=0n&amp;fmt=auto?sec=1650977752&amp;t=f33023f68cd18ddf19680dabf59339e9"></li></ul><hr><ul><li><h3 id="hexo博客搭建"><a href="#hexo博客搭建" class="headerlink" title="hexo博客搭建"></a>hexo博客搭建</h3>因为在搭建过程中，没有记录自己的搭建过程，但我把步骤和好的教程链接附上！  <ol><li>第一步：实现本地node环境<br>附上链接：<a href="https://blog.csdn.net/zhangkaidsy/article/details/86645070?spm=1001.2101.3001.6650.1&amp;utm_medium=distribute.pc_relevant.none-task-blog-2~default~CTRLIST~Rate-1.pc_relevant_default&amp;depth_1-utm_source=distribute.pc_relevant.none-task-blog-2~default~CTRLIST~Rate-1.pc_relevant_default&amp;utm_relevant_index=2">node.js</a></li></ol></li></ul><hr><ol start="2"><li>第二步：安装git<br>附上链接<a href="https://www.cnblogs.com/xueweisuoyong/p/11914045.html">git</a></li></ol><hr><ol start="3"><li>第三步：配置淘宝镜像<br>附上链接：<a href="https://www.cnblogs.com/luyuandatabase/p/12145707.html">淘宝镜像</a></li></ol><hr><ol start="4"><li>第四步：下载hexo博客框架及搭建<br>附上链接:<a href="https://blog.csdn.net/sinat_37781304/article/details/82729029">hexo</a>（这个比较完整，几乎一步到位）</li></ol><hr><ol start="5"><li>更换hexo博客主题<br>附上链接：<a href="https://blog.csdn.net/m0_38064214/article/details/84557777">更换主题</a><br><img src="https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fuploads.sundxs.com%2Fallimg%2F1706%2F29-1F613113G9.jpg&amp;refer=http%3A%2F%2Fuploads.sundxs.com&amp;app=2002&amp;size=f9999,10000&amp;q=a80&amp;n=0&amp;g=0n&amp;fmt=auto?sec=1650979255&amp;t=ce5a23e8867d716cfe4e60c26586231b"></li></ol>]]></content>
-      
-      
-      <categories>
-          
-          <category> 创建Blog </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> Blog </tag>
-            
-            <tag> hexo </tag>
             
         </tags>
       
